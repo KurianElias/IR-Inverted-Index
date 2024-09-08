@@ -1,0 +1,2 @@
+Modern search engines use advanced algorithms beyond simple Boolean queries.
+
